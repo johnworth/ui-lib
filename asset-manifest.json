@@ -1,0 +1,13 @@
+{
+  "main.js": "/main.6dfd910085ec945f6956.bundle.js",
+  "main.js.map": "/main.6dfd910085ec945f6956.bundle.js.map",
+  "runtime~main.js": "/runtime~main.6dfd910085ec945f6956.bundle.js",
+  "runtime~main.js.map": "/runtime~main.6dfd910085ec945f6956.bundle.js.map",
+  "vendors~main.js": "/vendors~main.6dfd910085ec945f6956.bundle.js",
+  "vendors~main.js.map": "/vendors~main.6dfd910085ec945f6956.bundle.js.map",
+  "iframe.html": "/iframe.html",
+  "precache-manifest.8de040a302f5e87382d243a2b2a826e4.js": "/precache-manifest.8de040a302f5e87382d243a2b2a826e4.js",
+  "service-worker.js": "/service-worker.js",
+  "static/media/betaSymbol.svg": "/static/media/betaSymbol.67655f6a.svg",
+  "static/media/betaSymbol.png": "/static/media/betaSymbol.bd92cde0.png"
+}
